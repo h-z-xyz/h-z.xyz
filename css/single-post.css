@@ -1,0 +1,40 @@
+
+#post-content h1{
+    color: white;
+    background-color: #0a043c;
+    margin-block-end: 0;
+    line-height: 1.5;
+}
+
+#post-content > p{
+    margin-block-start: 0;
+    text-align: left;
+    padding: 60px;
+    background: white;
+    color: black;
+    line-height: 1.5;
+}
+
+
+@media (min-width: 576px) {
+}
+
+@media (min-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+    #post-content{
+        padding: 60px;
+        padding-top: 80px;
+        width: 79%;
+        float: left;
+    }
+
+}
+
+@media (min-width: 1200px) {
+
+}
